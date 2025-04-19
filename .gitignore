@@ -1,0 +1,14 @@
+node_modules
+vendor
+.DS_Store
+includes/.env
+
+# /vendor/
+# /node_modules/
+# /src/
+# .env
+# .env.local
+# .env.development
+# .env.test
+# .env.production
+# .env.staging
